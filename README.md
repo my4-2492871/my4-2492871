@@ -33,8 +33,10 @@
 |  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | 045-DYM   |     |       |       |
 |                                               |                     |       |       |       |
 
+
 ✔️
 ✖️
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
