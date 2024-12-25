@@ -19,8 +19,8 @@
 | Project                                       | Wallet - Acc        | Notes | Notes | Notes |
 | :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 |                                               |                     |       
-| ✅ https://app.nept.finance/airdrop/ | 043-INJ
-| ✅ NIM                                           |                     | DYM    
+| ✅ [Neptune](https://app.nept.finance/airdrop/) | 043-INJ
+| ✅ [NIM](https://claim.nim.network/claim)                                   |                     | DYM    
 | ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) || [Aigisos Twitter](https://x.com/aigisos) | [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404) |
 |  [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | 045-DYM   |     |       |       |
 |                                              |                     |     
