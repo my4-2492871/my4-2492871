@@ -1,7 +1,10 @@
-
+✔️ ✅ ❌ ⚠️ ℹ️ ❔
 ---
 
-  ✅ FUEL
+
+| Project                                       | Wallet - Acc        | Notes |
+| :------------------------------------         |     :---            |          ---: |
+| ✅ FUEL
 | ✅ [4.69 $STN](https://claims.sirath.network) | DYM 0x17A59d123655c1429514b2137a551ed087eB9595
 
 ---
